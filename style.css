@@ -1,0 +1,56 @@
+
+
+.origami img
+{
+    
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+    margin: 50px;
+    
+    
+}
+
+
+body h1
+{
+    
+    text-align: center;
+    font-size: 200px;
+    
+}
+
+.body1
+{
+    background-image: url("Untitled.png");
+   
+}
+
+.body1 h1
+{
+    background-color: ivory;
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+    margin: 50px;
+   text-align: center;
+    font-size: 200px;
+   
+   
+
+}
+
+.introduction
+{
+    font-size: 90px;
+    font-weight: bold;
+} 
+
+.hi
+{
+    font-size: 190px;
+    font-weight: bold;
+   
+}
